@@ -1,0 +1,15 @@
+.Home{
+    text-align: center;
+}
+.Home-header{
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(19, 30, 40);
+}
+
+.Home-h1{
+  align-items: left;
+  justify-content: left;
+}
